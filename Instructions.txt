@@ -1,0 +1,13 @@
+Installation.
+  Download/Clone the whole respository to a folder inside your sever. Example Xampp/htdocs/FolderNameofChoice.
+  Go through all files and understand the code.
+  Go to confing file and rename the database credentials to your prefered database.
+  Use the Modals existing to create needed tables by checking on the codes on MySql statements.
+  Run the application.
+  If errors try and sort them out.
+
+Learning.
+  Understand the code
+  Try and add different pages and functions for you to make sure you are at per.
+  
+ALL THE BEST.
